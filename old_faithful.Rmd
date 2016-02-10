@@ -1,6 +1,7 @@
 ---
 title: Old Faithful Geyser
 ---
+Name: I am not the author. Author is Stephanie
 
 The [Old Faithful Geyser](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/faithful.html) 
 data set is a well-known data set that depicts the relationship 
